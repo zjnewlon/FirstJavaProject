@@ -1,0 +1,2 @@
+# FirstJavaProject
+Just for fun
